@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+numpy
+pandas
+scikit-learn
+xgboost
+kafka-python
+sqlalchemy
+psycopg2-binary
+mlflow
+evidently
+matplotlib
+pytest
+schedulers
